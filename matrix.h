@@ -1,5 +1,5 @@
 /*
-  matrix.h: MAX7219 32x8 (FC-16 style, 4 chained 8x8) framebuffer driver
+  MAX7219 32x8 (FC-16 style, 4 chained 8x8) framebuffer driver
  
   Wiring (hardware SPI, Arduino Uno pin names):
     VCC -> 5V  GND -> GND

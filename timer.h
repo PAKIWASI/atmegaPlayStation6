@@ -1,5 +1,5 @@
 
-// timer.h - 1 ms system tick on Timer0
+// 1 ms system tick on Timer0
 
 #ifndef TIMER_H
 #define TIMER_H
